@@ -64,8 +64,9 @@ Polynomial Regression outperformed Linear Regression on every metric, confirming
 - **A small high-cost minority skews the data** — concentrated among smokers and the obese, driving the right-skew and most outliers.
 - **The non-linear model fits better** — adding a degree-2 polynomial term meaningfully improved R² (0.78 → 0.87), confirming a curved rather than linear relationship.
 - **Errors dropped substantially with Polynomial Regression** — MAE fell from $4,181 to $2,729, and RMSE from $5,796 to $4,550.
----
-#Team
+
+
+## **Team**
 - Raghad Alharbi
 - Maram Alzahrani
 - Turki Abuhaimed
